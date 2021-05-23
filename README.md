@@ -5,8 +5,7 @@ In this project I will share how the Smart Geyzer circuit was designed and used 
 
 **Important Notes:**
 1. I used a NodeMCU for this application, hence used Arduino IDE to write the code.
-2. I used Node MCU for this project. Realised later that any other ESP-8266 Module consuming lower power would suffice.
-Example - ESP-8266-01 (Also it would have consumed lesser current :P)
+2. I used Node MCU for this project. Realised later that any other ESP-8266 Module consuming lower power would suffice. Example-ESP-8266-01 (Also it would have consumed lesser current :P)
 4. I used a Relay Module and not just a Relay. Relay Module will run on 3.3V input whereas a Relay componenet mostly needs 5v to work.
 
 **Bill of Materials:**

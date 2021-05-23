@@ -30,4 +30,7 @@ Note: S1-Socket 1, S2-Socket 2
 ![1621756892625](https://user-images.githubusercontent.com/54372026/119252729-60b28700-bbcb-11eb-9855-f02c77ba375e.jpg)
 
 
-**Pictures of Implementation:**
+**Implementation:**
+
+Here is a link to the video of my Implementation:
+https://drive.google.com/file/d/1Jqz6hd2vjtD2o2p1hl0gsFlotfA9h_1t/view?usp=sharing

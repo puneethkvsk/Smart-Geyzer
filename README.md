@@ -7,7 +7,8 @@ In this project I will share how the Smart Geyzer circuit was designed and used 
 1. I used a NodeMCU for this application, hence used Arduino IDE to write the code.
 2. Also, I realised later that any other ESP-8266 Module consuming lower power would suffice. Example-ESP-8266-01 (Also it would have consumed lesser current :P)
 4. I used a Relay Module and not just a Relay. Relay Module will run on 3.3V input whereas a Relay component mostly needs 5v to work.
-5. Blynk application was used to set up the User Interface to control the Geyzer from phone. Please check any youtube video to set up the Blynk app. Once you set up a Blynk account, I will be glad to help you with using the Blynk app for this project in case you have any issues. Please email me on puneeth.kvsk@gmail.com
+5. Blynk application was used to set up the User Interface to control the Geyzer from phone. Please check any youtube video to set up the Blynk app. Once you set up a Blynk account, I will be glad to help you with using the Blynk app for this project in case you have any issues. 
+6. It took me sometime to figure out how I can put my temperature sensor inside the Geyzer and how to set-up the circuit near the Geyzer. If you have any questions, please email them to puneeth.kvsk@gmail.com. I will be glad to help you with any type of queries.
 
 **Bill of Materials:**
 1. Node MCU

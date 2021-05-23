@@ -25,3 +25,5 @@ To get the source code running, first put make a new folder called "smartGeyzerC
 
 Circuit Diagram:
 ![1621756292563](https://user-images.githubusercontent.com/54372026/119252443-ed5c4580-bbc9-11eb-8174-5c7ac7730786.jpg)
+
+Pictures of Implementation:

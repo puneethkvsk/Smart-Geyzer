@@ -33,5 +33,16 @@ Note: S1-Socket 1, S2-Socket 2
 
 **Implementation:**
 
-Here is a link to the video of my Implementation:
+**Here is a link to the video of the set-up:**
+
 https://drive.google.com/file/d/1Jqz6hd2vjtD2o2p1hl0gsFlotfA9h_1t/view?usp=sharing
+
+**And here are some pictures of how I set it up:**
+
+![1621759033635](https://user-images.githubusercontent.com/54372026/119253772-678fc880-bbd0-11eb-83fd-6e75657df036.jpg)
+
+![1621759033626](https://user-images.githubusercontent.com/54372026/119253788-7aa29880-bbd0-11eb-8ea1-a500c870451f.jpg)
+
+![1621759033630](https://user-images.githubusercontent.com/54372026/119253809-9017c280-bbd0-11eb-88b4-3e31180c2e7a.jpg)
+
+

@@ -17,6 +17,7 @@ In this project I will share how the Smart Geyzer circuit was designed and used 
 6. Copper board, Wires, Soldering Kit
 
 **Source Code:**
+
 To get the source code running, first put make a new folder called "smartGeyzerCode" and then put the smartGeyzerCode.ino file in it. Now, you need to install the following libraries before compiling and uploading the code to your microcontroller. Go to Tools-->ManageLibraries-->Search for the following libraries and install them.
 1. OneWire library
 2. Dallas Temperature

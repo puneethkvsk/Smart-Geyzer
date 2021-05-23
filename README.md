@@ -24,6 +24,6 @@ To get the source code running, first put make a new folder called "smartGeyzerC
 2. Dallas Temperature
 
 Circuit Diagram:
-![1621756292563](https://user-images.githubusercontent.com/54372026/119252443-ed5c4580-bbc9-11eb-8174-5c7ac7730786.jpg)
+![1621756292563](https://user-images.githubusercontent.com/54372026/119252708-4678a900-bbcb-11eb-8f5b-f840195430fa.jpg)
 
 Pictures of Implementation:

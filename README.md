@@ -16,7 +16,7 @@ In this project I will share how the Smart Geyzer circuit was designed and used 
 3. 3-Pin Electrical Sockets (One Male and One Female)
 4. Temperature Sensor - DS18B20 - This module is perfect for any temperature measurment application
 5. 220V-5V step down converter for the NodeMCU, Temperature Sensor, Relay Module to work
-6. Copper board, Wires, Soldering Kit
+6. Copper board, Wires, Connectors, Soldering Kit and other miscellaneous stuff
 
 **Source Code:**
 

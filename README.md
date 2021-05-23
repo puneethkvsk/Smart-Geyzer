@@ -23,6 +23,7 @@ To get the source code running, first put make a new folder called "smartGeyzerC
 2. Dallas Temperature
 
 **Circuit Diagram:**
+
 Note: S1-Socket 1, S2-Socket 2
 ![1621756892625](https://user-images.githubusercontent.com/54372026/119252729-60b28700-bbcb-11eb-9855-f02c77ba375e.jpg)
 

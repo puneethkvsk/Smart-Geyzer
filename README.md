@@ -21,7 +21,7 @@ In this file I will share how the Smart Geyzer circuit was designed and used as 
 6. Copper board, Wires, Connectors, Soldering Kit and other miscellaneous stuff
 7. Software - Arduino IDE was used. Follow the steps mentioned under the Source Code Notes section.
 
-**EXPLAINATION OF COMPONENTS START:**
+**//EXPLAINATION OF COMPONENTS START//**
 
 **NodeMCU-** 
 
@@ -46,7 +46,7 @@ After downloading the Blynk app, you need to create a new project. I named my pr
 
 **NOTE:** Now, the following **WIDGET OPTIONS EXPLAINATION SECTION** is only for the people who are blindly copying my code. For others, I suggest you put your own settings and try tweaking the User Interface to your satisfaction.
 
-***WIDGET OPTIONS EXPLAINATION SECTION START:***
+***//WIDGET OPTIONS EXPLAINATION SECTION START//***
 
 *NOTE:*  You need to declare specific Virtual Pins to use these Widgets for this app. If you're using the code I attached in this repo, then you HAVE TO use the same Widgets I used. Duh, that's why you're still reading this.
 
@@ -68,11 +68,11 @@ SLIDER -
 
 ![WhatsApp Image 2021-05-24 at 3 32 39 PM](https://user-images.githubusercontent.com/54372026/119331997-a04da180-bca5-11eb-8f81-20aa8b1a3c5c.jpeg)
 
-***WIDGET OPTIONS EXPLAINATION SECTION END:***
+***//WIDGET OPTIONS EXPLAINATION SECTION END//***
 
-**EXPLAINATION OF COMPOENENTS END:**
+**//EXPLAINATION OF COMPOENENTS END//**
 
-**SOFTWARE AND SOURCE CODE NOTES START:**
+**//SOFTWARE AND SOURCE CODE NOTES START**
 
 To get the source code running, make a New Folder called "smartGeyzerCode" and then put the smartGeyzerCode.ino file in it. Now, you need to install the following libraries before compiling and uploading the code to your microcontroller. Go to Tools, then ManageLibraries and search for the following libraries:
 1. OneWire library
@@ -80,7 +80,7 @@ To get the source code running, make a New Folder called "smartGeyzerCode" and t
 3. ESP8699WiFi
 4. Blynk (This will automatically have BlynkSimpleESP8266 which we want to use)
 
-**SOFTWARE AND SOURCE CODE NOTES END:**
+**//SOFTWARE AND SOURCE CODE NOTES END//**
 
 
 **CIRCUIT DIAGRAM:**

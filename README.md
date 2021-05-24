@@ -39,9 +39,9 @@ After downloading the Blynk app, you need to create a new project. I named my pr
 
 ![WhatsApp Image 2021-05-24 at 3 23 52 PM](https://user-images.githubusercontent.com/54372026/119330703-249f2500-bca4-11eb-9527-2cd5dd16742d.jpeg)
 
-The following **Widget Options section** is only for the people who are blindly copying my code. For others, I suggest you put your own settings and try tweaking the User Interface to your satisfaction.
+**NOTE:** Now, the following **WIDGET OPTIONS EXPLAINATION SECTION** is only for the people who are blindly copying my code. For others, I suggest you put your own settings and try tweaking the User Interface to your satisfaction.
 
-*Widget Options Section Start:*
+***WIDGET OPTIONS EXPLAINATION SECTION START:***
 
 *NOTE:*  You need to declare specific Virtual Pins to use these Widgets for this app. If you're using the code I attached in this repo, then you HAVE TO use the same Widgets I used. Duh, that's why you're still reading this.
 
@@ -63,7 +63,7 @@ SLIDER -
 
 ![WhatsApp Image 2021-05-24 at 3 32 39 PM](https://user-images.githubusercontent.com/54372026/119331997-a04da180-bca5-11eb-8f81-20aa8b1a3c5c.jpeg)
 
-*Widget Options Section End:*
+***WIDGET OPTIONS EXPLAINATION SECTION END:***
 
 **EXPLAINATION OF COMPOENENTS END:**
 

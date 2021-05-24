@@ -72,7 +72,7 @@ SLIDER -
 
 **//EXPLAINATION OF COMPOENENTS END//**
 
-**//SOFTWARE AND SOURCE CODE NOTES START**
+**//SOFTWARE AND SOURCE CODE NOTES START//**
 
 To get the source code running, make a New Folder called "smartGeyzerCode" and then put the smartGeyzerCode.ino file in it. Now, you need to install the following libraries before compiling and uploading the code to your microcontroller. Go to Tools, then ManageLibraries and search for the following libraries:
 1. OneWire library

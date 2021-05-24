@@ -3,7 +3,7 @@ Implementation of Smart Geyzer for home application is described as follows. Fir
 
 In this file I will share how the Smart Geyzer circuit was designed and used as a Plug-n-Play solution to existing conventional Geyzer at home. You can find all the information required to implement the project below.
 
-**Important Notes:**
+**IMPORTANT NOTES:**
 
 1. If you don't understand the meaning of any WORD mentioned in this file, please google it. You need to understand the terms if you want to do this project.
 2. Blynk application was used to set up the User Interface to control the Geyzer from phone. Please check any youtube video to set up the Blynk app. Once you set up a Blynk account, find notes below on Blynk to understand more. I will be glad to help you with using the Blynk app for this project in case you have any issues. 
@@ -11,7 +11,7 @@ In this file I will share how the Smart Geyzer circuit was designed and used as 
 4. Why are the uploaded pictures so big on Github??? * *facepalm* *
 
 
-**Bill of Materials:**
+**BILL OF MATERIALS:**
 
 1. Node MCU
 2. 20A relay module (Any relay module above 16A rating will suffice to control any Geyzer)
@@ -21,7 +21,7 @@ In this file I will share how the Smart Geyzer circuit was designed and used as 
 6. Copper board, Wires, Connectors, Soldering Kit and other miscellaneous stuff
 7. Software - Arduino IDE was used. Follow the steps mentioned under the Source Code Notes section.
 
-**Explaination for each component Start:**
+**EXPLAINATION OF COMPONENTS START:**
 
 **NodeMCU-** 
 
@@ -65,9 +65,9 @@ SLIDER -
 
 *Widget Options Section End:*
 
-**Explaination for each component Start:**
+**EXPLAINATION OF COMPOENENTS END:**
 
-**Software and Source Code Notes Start:**
+**SOFTWARE AND SOURCE CODE NOTES START:**
 
 To get the source code running, make a New Folder called "smartGeyzerCode" and then put the smartGeyzerCode.ino file in it. Now, you need to install the following libraries before compiling and uploading the code to your microcontroller. Go to Tools, then ManageLibraries and search for the following libraries:
 1. OneWire library
@@ -75,16 +75,16 @@ To get the source code running, make a New Folder called "smartGeyzerCode" and t
 3. ESP8699WiFi
 4. Blynk (This will automatically have BlynkSimpleESP8266 which we want to use)
 
-**Software and Source Code Notes End:**
+**SOFTWARE AND SOURCE CODE NOTES END:**
 
 
-**Circuit Diagram:**
+**CIRCUIT DIAGRAM:**
 
 Note: S1-Socket 1, S2-Socket 2
 ![1621756892625](https://user-images.githubusercontent.com/54372026/119252729-60b28700-bbcb-11eb-9855-f02c77ba375e.jpg)
 
 
-**Implementation:**
+**SET-UP:**
 
 **Here is a link to the video of the set-up:**
 

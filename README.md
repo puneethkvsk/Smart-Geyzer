@@ -31,6 +31,11 @@ I used NodeMCU to make my project. But frankly, NodeMCU is a really powerful mic
 
 A **Relay component** works on 5V supply whereas a **Relay Module** mostly works on 3V supply. Hence using a Relay Module is advantageous for this project since the output of the ESP Module is 3.3V.
 
+**3-Pin Electrical Sockets:**
+
+I'm just going to attach picture of what I bought. You need 1 "MALE min 16A socket" and 1 "FEMALE min 16A socket".
+
+
 **Blynk app-**
 
 Blynk app is really useful when it comes to building these personal projects. It's free to use for your first Project. You can use this link to download the Blynk app on your phone: //Put the Blynk app link here
@@ -45,7 +50,7 @@ After downloading the Blynk app, you need to create a new project. I named my pr
 
 *NOTE:*  You need to declare specific Virtual Pins to use these Widgets for this app. If you're using the code I attached in this repo, then you HAVE TO use the same Widgets I used. Duh, that's why you're still reading this.
 
-As you can see, I used a GUAGE, LCD DISPLAY and SLIDER widgets for the project.
+As you can see, I used a GUAGE, LCD DISPLAY and SLIDER widgets for the project. Set up the Widgets Options as shown below.
 
 *Setting up the Widget options:*
 

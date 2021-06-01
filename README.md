@@ -80,6 +80,8 @@ To get the source code running, make a New Folder called "smartGeyzerCode" and t
 3. ESP8699WiFi
 4. Blynk (This will automatically have BlynkSimpleESP8266 which we want to use)
 
+Enough comments are added into the code file for you to understand each step. But I will still explain some important part of it down below.
+
 **//SOFTWARE AND SOURCE CODE NOTES END//**
 
 

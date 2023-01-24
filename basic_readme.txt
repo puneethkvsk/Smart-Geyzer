@@ -1,1 +1,0 @@
-This is a sample read-me file for Development branch in Smart-Geyzer repo
